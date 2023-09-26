@@ -12,3 +12,17 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Csharp-Practice\A
 D:\Professional Programming With C#\Repository\Csharp-Practice\Csharp-Practice\Array\obj\Debug\net7.0\Array.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Csharp-Practice\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Csharp-Practice\Array\obj\Debug\net7.0\ref\Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\bin\Debug\net7.0\Array.exe
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\bin\Debug\net7.0\Array.deps.json
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\bin\Debug\net7.0\Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\bin\Debug\net7.0\Array.pdb
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\refint\Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.pdb
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\ref\Array.dll
