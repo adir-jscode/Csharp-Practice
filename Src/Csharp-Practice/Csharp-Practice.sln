@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{0EC7C8D6-5645-4875-955A-6E1E2F2D5983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Array", "Jagged_Array\Jagged_Array.csproj", "{6D06F532-AF5C-4219-BEE1-303DDCDB5799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged_Array", "Jagged_Array\Jagged_Array.csproj", "{6D06F532-AF5C-4219-BEE1-303DDCDB5799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimentional_Array", "Multidimentional_Array\Multidimentional_Array.csproj", "{746EE237-CEEF-47F1-AAE3-6720885793C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6D06F532-AF5C-4219-BEE1-303DDCDB5799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D06F532-AF5C-4219-BEE1-303DDCDB5799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D06F532-AF5C-4219-BEE1-303DDCDB5799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746EE237-CEEF-47F1-AAE3-6720885793C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746EE237-CEEF-47F1-AAE3-6720885793C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746EE237-CEEF-47F1-AAE3-6720885793C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746EE237-CEEF-47F1-AAE3-6720885793C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

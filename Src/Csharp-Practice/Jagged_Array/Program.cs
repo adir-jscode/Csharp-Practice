@@ -13,22 +13,30 @@ namespace Jagged_Array
             jagged[0] = new[] { 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 };
             jagged[1] = new[] { 12, 13, 14, 15, 100 };
 
+            //for (int i = 0; i < jagged.Length; i++) // row
+            //{
+            //    for (int j = 0; j < jagged[i].Length; j++)
+            //    {
+            //        Console.WriteLine("Element No [" + i + "] [" + j + "] = " + jagged[i][j]);
+            //    }
+            //}
+
             for (int i = 0; i < jagged.Length; i++) // row
             {
-                for (int j = 0; j < jagged[i].Length; j++)
+                for (int j = 0; j < jagged[i].GetLength(i); j++) //GetLength(0) OR GetLength(i) 
                 {
                     Console.WriteLine("Element No [" + i + "] [" + j + "] = " + jagged[i][j]);
                 }
             }
 
-            foreach (int[] item in  jagged)
-            {
-                foreach(int numbers in item)
-                {
-                    Console.Write(numbers + " , ");
-                }
-                Console.WriteLine();
-            }
+            //foreach (int[] item in  jagged)
+            //{
+            //    foreach(int numbers in item)
+            //    {
+            //        Console.Write(numbers + " , ");
+            //    }
+            //    Console.WriteLine();
+            //}
 
         }
     }
