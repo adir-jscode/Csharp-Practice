@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Array
 build_property.ProjectDir = D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
