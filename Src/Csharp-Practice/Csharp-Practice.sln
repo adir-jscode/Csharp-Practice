@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Input_Output", "Input_Outpu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{32827D04-6B6F-43E5-AC94-75C56E9669A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Class", "OOP-Class\OOP-Class.csproj", "{CBD98CEB-3DE3-4212-A69D-C5C5DDF76064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Class", "OOP-Class\OOP-Class.csproj", "{CBD98CEB-3DE3-4212-A69D-C5C5DDF76064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Advance", "OOP-Advance\OOP-Advance.csproj", "{20B6A5D8-997B-4F6E-B936-7B3E1A534D80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CBD98CEB-3DE3-4212-A69D-C5C5DDF76064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD98CEB-3DE3-4212-A69D-C5C5DDF76064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD98CEB-3DE3-4212-A69D-C5C5DDF76064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B6A5D8-997B-4F6E-B936-7B3E1A534D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B6A5D8-997B-4F6E-B936-7B3E1A534D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B6A5D8-997B-4F6E-B936-7B3E1A534D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B6A5D8-997B-4F6E-B936-7B3E1A534D80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
