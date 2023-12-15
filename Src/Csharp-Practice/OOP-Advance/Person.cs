@@ -8,6 +8,6 @@ namespace OOP_Advance
 {
     public class Person
     {
-       
+        public int id;
     }
 }
