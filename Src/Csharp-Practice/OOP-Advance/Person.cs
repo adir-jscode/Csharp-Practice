@@ -27,6 +27,18 @@ namespace OOP_Advance
 
         public abstract string GetId();
 
+        //virtual, override
+        public virtual void Talk()
+        {
+            Console.WriteLine("He can talk");
+        }
+
+        //new keyword
+        public void print(string text)
+        {
+            Console.Write("Message from parent:" + text);
+        }
+
         //Return Class
 
         //public Person GetNewPerson()

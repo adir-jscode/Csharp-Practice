@@ -1,6 +1,8 @@
 ﻿using OOP_Advance;
 
-Person Teacher = new Teacher("40A");
+Teacher Teacher = new Teacher("40A");
+Teacher.Talk();
+Teacher.print("Good Morning");
 Person Student = new Student(50);
 Student s1 = new Student(70);
 

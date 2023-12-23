@@ -24,5 +24,15 @@ namespace OOP_Advance
         {
             return GeneratedId();
         }
+
+        public override void Talk()
+        {
+            Console.WriteLine("Teacher can talk in classroom");
+        }
+
+        public new void print(string text)
+        {
+            Console.WriteLine("Message From Teacher :" + text);
+        }
     }
 }
