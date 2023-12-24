@@ -13,3 +13,10 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practi
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\bin\Debug\net8.0\OperatorOverloading.deps.json
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\bin\Debug\net8.0\OperatorOverloading.exe
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\bin\Debug\net8.0\OperatorOverloading.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\bin\Debug\net8.0\OperatorOverloading.pdb
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.AssemblyReference.cache
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CopyComplete

@@ -22,3 +22,7 @@ foreach (var item in list)
 
 Point<string,int,Random> point = new Point<string,int,Random>();
 point.Convert<Random>(new Random());
+
+DefaultKeyword<DateTime> date = new DefaultKeyword<DateTime>();
+var time = date.CreateInstance();
+Console.WriteLine(time.ToString());

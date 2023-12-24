@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "GenericsExample/1.0.0": {
+        "dependencies": {
+          "OperatorOverloading": "1.0.0"
+        },
         "runtime": {
           "GenericsExample.dll": {}
+        }
+      },
+      "OperatorOverloading/1.0.0": {
+        "runtime": {
+          "OperatorOverloading.dll": {}
         }
       }
     }
   },
   "libraries": {
     "GenericsExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperatorOverloading/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

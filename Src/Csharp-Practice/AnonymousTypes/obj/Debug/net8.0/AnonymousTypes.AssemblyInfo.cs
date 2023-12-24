@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnonymousTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8493fee3fd4f6b45f03d080cad8a0b1accf5184")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnonymousTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnonymousTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
