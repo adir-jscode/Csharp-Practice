@@ -12,3 +12,4 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practi
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Operators\obj\Debug\net7.0\Operators.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Operators\obj\Debug\net7.0\ref\Operators.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Operators\obj\Debug\net7.0\Operators.sourcelink.json

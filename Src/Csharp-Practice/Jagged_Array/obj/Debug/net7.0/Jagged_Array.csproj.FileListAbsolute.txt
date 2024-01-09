@@ -12,3 +12,4 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practi
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Jagged_Array\obj\Debug\net7.0\Jagged_Array.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Jagged_Array\obj\Debug\net7.0\Jagged_Array.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Jagged_Array\obj\Debug\net7.0\ref\Jagged_Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Jagged_Array\obj\Debug\net7.0\Jagged_Array.sourcelink.json

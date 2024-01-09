@@ -26,3 +26,4 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practi
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\ref\Array.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Array\obj\Debug\net7.0\Array.sourcelink.json

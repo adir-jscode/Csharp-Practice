@@ -12,3 +12,4 @@ D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practi
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Input_Output\obj\Debug\net7.0\Input_Output.pdb
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Input_Output\obj\Debug\net7.0\Input_Output.genruntimeconfig.cache
 D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Input_Output\obj\Debug\net7.0\ref\Input_Output.dll
+D:\Professional Programming With C#\Repository\Csharp-Practice\Src\Csharp-Practice\Input_Output\obj\Debug\net7.0\Input_Output.sourcelink.json
